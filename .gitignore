@@ -33,3 +33,9 @@
 
 # Debugging Path
 cmake-build-debug/*
+
+# Git Paths
+.git/
+.git/*
+.idea/
+.idea/*
